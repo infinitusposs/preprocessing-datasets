@@ -5,7 +5,7 @@
 You can install by "git clone" command.
 
 ```
-https://github.com/infinitusposs/PascalSentencePython3.git
+https://github.com/infinitusposs/preprocessing-datasets.git
 ```
 ## Description
 
