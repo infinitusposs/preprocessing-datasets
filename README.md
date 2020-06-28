@@ -1,6 +1,6 @@
 # preprocessing-datasets
 
-The **wikipedia.py** is for preprocessing the XML files in Wikipedian dataset. <br>
+The **wikipedia.py** is for preprocessing the XML files in Wikipedia dataset. <br>
 This program extracts the first sentence of each article and save it into a TXT file with the same name as the file name its corresponding image.
 
 The **iaprtc.py** is for preprocessing the ENG files in IAPR TC-12 dataset. <br>
